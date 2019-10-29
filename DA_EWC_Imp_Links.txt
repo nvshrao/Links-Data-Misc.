@@ -20,6 +20,9 @@ Sentiment classification by leveraging the shared knowledgefrom a sequence of do
 Unsupervised pretrainingfor neural machine translation using elastic weight consol-idation.
 Overcoming catastrophic forgetting dur-ing domain adaptation of neural machine translation.
 Domain adaptive inference for neural machine trans-lation
+# On EWC MultiNLI
+https://arxiv.org/abs/1811.00239 Progressive Memory Banks for Incremental Domain Adaptation AMTL Workshop @ ICML, 2019
+ 
 
 
 Domain adaption related links
