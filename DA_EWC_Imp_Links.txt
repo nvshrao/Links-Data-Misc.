@@ -1,0 +1,30 @@
+
+Catastrophic Links
+orignal EWC paper https://www.pnas.org/content/114/13/3521#sec-1                                      March 28, 2017
+(random old github codeV)
+https://gist.github.com/giuseppebonaccorso/48694ea84a474ad8c748c240ed8d4376
+
+https://arxiv.org/pdf/1703.08475.pdf 
+Overcoming Catastrophic Forgetting by Incremental Moment Matching                                      NIPS 2017 
+^ has Drop Transfer
+
+https://arxiv.org/pdf/1801.01423.pdf                                        
+Overcoming Catastrophic Forgetting with Hard Attention to the Task                                     ICML 2018
+^ has EWC, IMM and some more as baselines
+
+https://openreview.net/pdf?id=ryGvcoA5YX
+LATEST : OVERCOMING CATASTROPHIC FORGETTING FOR CONTINUAL LEARNING VIA MODEL ADAPTATION                ICLR 2019
+
+EWC in NLP Links
+Sentiment classification by leveraging the shared knowledgefrom a sequence of domains.
+Unsupervised pretrainingfor neural machine translation using elastic weight consol-idation.
+Overcoming catastrophic forgetting dur-ing domain adaptation of neural machine translation.
+Domain adaptive inference for neural machine trans-lation
+
+
+Domain adaption related links
+
+Ruder: https://arxiv.org/pdf/1804.09530.pdf
+http://ruder.io/tag/domain-adaptation/ (domain adaptions papers to be write on how he writes) 
+http://aclweb.org/anthology/P18-1099  Graph embedings
+http://jmcauley.ucsd.edu/data/amazon/ Amazon Review data

@@ -1,0 +1,27 @@
+2014 SemEval Task 4
+
+http://aclweb.org/anthology/K18-1018 Hierarchical Attention, very difficult baselines,                  CoNLL 18
+R82.23 L77.27
+http://aclweb.org/anthology/P18-1234 Gated, can be probably beaten baselines,                           ACL Long 18
+R77.28 L69.14 ######################MEDIUM CASE 4 way (R76.07, L67.27)
+http://aclweb.org/anthology/D18-1136 Parameterized,                                                    EMNLP 18
+R79.20 L70.06 #######################BEST CASE 3 way
+http://aclweb.org/anthology/P18-2094 Double, weird baselines.                                           ACL Short 18
+???    SUBTASK 1 R?? L??
+http://aclweb.org/anthology/D18-1380 Muligran attention                                                 EMNLP 18
+R81.25 L75.39            macrof1: 0.7194  0.7247 
+https://www.aclweb.org/anthology/C18-1066 A Position-aware Bidirectional Attention Network              COLING 18
+R81.16 L74.12 3 class
+https://arxiv.org/pdf/1712.05403.pdf                                                                    AAAI 18
+R75.44 L68.81 ######################## WORST CASE 3 way
+
+ 
+Our Current:
+R75 L66.5
+
+https://www.clickbait-challenge.org/#data competetion with lot of scores
+https://scholar.google.co.in/scholar?cites=13949543227026572922&as_sdt=2005&sciodt=0,5&hl=en citations can be checked
+
+
+
+https://www.aclweb.org/anthology/C18-1096 ####### COLING 18, they used parse trees
