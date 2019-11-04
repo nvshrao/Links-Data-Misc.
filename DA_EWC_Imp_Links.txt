@@ -17,7 +17,7 @@ LATEST : OVERCOMING CATASTROPHIC FORGETTING FOR CONTINUAL LEARNING VIA MODEL ADA
 
 EWC in NLP Links
 Sentiment classification by leveraging the shared knowledgefrom a sequence of domains.
-Unsupervised pretrainingfor neural machine translation using elastic weight consol-idation.
+Unsupervised pretraining for neural machine translation using elastic weight consol-idation.
 Overcoming catastrophic forgetting dur-ing domain adaptation of neural machine translation.
 Domain adaptive inference for neural machine trans-lation
 # On EWC MultiNLI
@@ -26,14 +26,19 @@ https://arxiv.org/abs/1811.00239 Progressive Memory Banks for Incremental Domain
 
 
 Domain adaption related links
-
-Ruder: https://arxiv.org/pdf/1804.09530.pdf
+Strong Baselines for Neural Semi-Supervised Learning under Domain Shift
+^Ruder: https://www.aclweb.org/anthology/P18-1096.pdf ACL 2018 has many citations
 http://ruder.io/tag/domain-adaptation/ (domain adaptions papers to be write on how he writes) 
 http://aclweb.org/anthology/P18-1099  Graph embedings
 http://jmcauley.ucsd.edu/data/amazon/ Amazon Review data
 
+DA in SOTA Links:
 
-SOTA Links:
-https://www.aclweb.org/anthology/N19-1258.pdf NAACL 2019 (https://github.com/XiaoYee/ACAN)
-https://arxiv.org/pdf/1809.00530.pdf EMNLP 2018 (https://github.com/ruidan/DAS)
-https://www.aclweb.org/anthology/N18-1112.pdf NAACL 2018 (https://github.com/yftah89/PBLM-Domain-Adaptation)
+https://www.aclweb.org/anthology/N18-1112.pdf (https://github.com/yftah89/PBLM-Domain-Adaptation)
+Pivot Based Language Modeling for Improved Neural Domain Adaptation                                       NAACL 2018
+
+https://www.aclweb.org/anthology/D18-1383.pdf (https://github.com/ruidan/DAS)
+Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification                               EMNLP 2018 
+
+https://www.aclweb.org/anthology/N19-1258.pdf (https://github.com/XiaoYee/ACAN)
+Adversarial Category Alignment Network for Cross-domain Sentiment Classification                          NAACL 2019
