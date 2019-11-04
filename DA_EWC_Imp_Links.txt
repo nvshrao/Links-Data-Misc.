@@ -31,3 +31,9 @@ Ruder: https://arxiv.org/pdf/1804.09530.pdf
 http://ruder.io/tag/domain-adaptation/ (domain adaptions papers to be write on how he writes) 
 http://aclweb.org/anthology/P18-1099  Graph embedings
 http://jmcauley.ucsd.edu/data/amazon/ Amazon Review data
+
+
+SOTA Links:
+https://www.aclweb.org/anthology/N19-1258.pdf NAACL 2019 (https://github.com/XiaoYee/ACAN)
+https://arxiv.org/pdf/1809.00530.pdf EMNLP 2018 (https://github.com/ruidan/DAS)
+https://www.aclweb.org/anthology/N18-1112.pdf NAACL 2018 (https://github.com/yftah89/PBLM-Domain-Adaptation)
