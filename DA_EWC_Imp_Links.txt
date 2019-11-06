@@ -42,3 +42,7 @@ Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification     
 
 https://www.aclweb.org/anthology/N19-1258.pdf (https://github.com/XiaoYee/ACAN)
 Adversarial Category Alignment Network for Cross-domain Sentiment Classification                          NAACL 2019
+
+https://www.aclweb.org/anthology/P19-1591.pdf (https://github.com/yftah89/TRL-PBLM)                        ACL 2019
+Task Refinement Learning for Improved Accuracy and Stability ofUnsupervised Domain Adaptation
+
