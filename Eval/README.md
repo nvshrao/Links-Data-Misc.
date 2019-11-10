@@ -25,3 +25,12 @@ Furthermore on other datasets 80% performance achieved but BERT 90% <--- Descrip
 4. Synthetic Tasks
 ....
 ????
+
+## Recent Links
+- Designing and Interpreting Probes with Control Tasks
+https://www.aclweb.org/anthology/D19-1275.pdf  
+ EMNLP 2019
+ 
+ - AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models
+https://www.aclweb.org/anthology/D19-3002.pdf 
+ EMNLP 2019
