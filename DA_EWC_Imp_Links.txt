@@ -37,6 +37,9 @@ DA in SOTA Links:
 https://www.aclweb.org/anthology/N18-1112.pdf (https://github.com/yftah89/PBLM-Domain-Adaptation)
 Pivot Based Language Modeling for Improved Neural Domain Adaptation                                       NAACL 2018
 
+https://www.aclweb.org/anthology/N18-1050.pdf (https://github.com/leuchine/multi-domain-sentiment)        NAACL 2018
+Learning Domain Representation for Multi-Domain Sentiment Classification
+
 https://www.aclweb.org/anthology/D18-1383.pdf (https://github.com/ruidan/DAS)
 Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification                               EMNLP 2018 
 
