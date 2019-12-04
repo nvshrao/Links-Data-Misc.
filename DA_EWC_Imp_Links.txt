@@ -34,6 +34,9 @@ http://jmcauley.ucsd.edu/data/amazon/ Amazon Review data
 
 DA in SOTA Links:
 
+https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16873/16149 (https://github.com/hsqmlzno1/HATN)
+Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification                         AAAI 2018
+
 https://www.aclweb.org/anthology/N18-1112.pdf (https://github.com/yftah89/PBLM-Domain-Adaptation)
 Pivot Based Language Modeling for Improved Neural Domain Adaptation                                       NAACL 2018
 
