@@ -1,2 +1,29 @@
 
+1. Layer Normalization
+
 https://arxiv.org/abs/1607.06450 Layer Normalization Original Paper
+
+2. Norm matters: efficient and accurate normalization schemes in deep networks
+
+https://papers.nips.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-networks.pdf
+
+3. Understanding BatchNormalization
+
+https://papers.nips.cc/paper/7996-understanding-batch-normalization.pdf
+https://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf
+
+4. Positional Normalization
+
+https://papers.nips.cc/paper/8440-positional-normalization.pdf
+
+5.  Understanding and Improving Layer Normalization
+
+https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf
+
+6. Study On Normalization
+
+https://papers.nips.cc/paper/8954-normalization-helps-training-of-quantized-lstm.pdf
+
+7.  RMS Normalization
+
+https://papers.nips.cc/paper/9403-root-mean-square-layer-normalization.pdf
