@@ -27,3 +27,10 @@ https://papers.nips.cc/paper/8954-normalization-helps-training-of-quantized-lstm
 7.  RMS Normalization
 
 https://papers.nips.cc/paper/9403-root-mean-square-layer-normalization.pdf
+
+
+
+
+
+
+https://arxiv.org/pdf/1808.09121.pdf
