@@ -34,3 +34,6 @@ https://papers.nips.cc/paper/9403-root-mean-square-layer-normalization.pdf
 
 Word In Sense Dataset
 https://arxiv.org/pdf/1808.09121.pdf
+
+Improving Word Representations Via Global Context And Multiple Word Prototypes
+https://www.socher.org/index.php/Main/ImprovingWordRepresentationsViaGlobalContextAndMultipleWordPrototypes
