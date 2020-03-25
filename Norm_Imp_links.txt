@@ -37,7 +37,11 @@ https://arxiv.org/pdf/2003.07845.pdf
 https://openreview.net/forum?id=B1x8anVFPr
 
 
+10. Some papers on where to place layer norm
 
+https://www.aclweb.org/anthology/P19-1176.pdf
+
+https://arxiv.org/pdf/1910.05895.pdf
 
 Word In Sense Dataset
 https://arxiv.org/pdf/1808.09121.pdf
