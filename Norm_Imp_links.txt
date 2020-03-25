@@ -28,6 +28,13 @@ https://papers.nips.cc/paper/8954-normalization-helps-training-of-quantized-lstm
 
 https://papers.nips.cc/paper/9403-root-mean-square-layer-normalization.pdf
 
+8. Rethinking Batch Normalization in Transformers
+
+https://arxiv.org/pdf/2003.07845.pdf
+
+9.On Layer Normalization in the Transformer Architecture 
+
+https://openreview.net/forum?id=B1x8anVFPr
 
 
 
