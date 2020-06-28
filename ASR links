@@ -1,0 +1,13 @@
+1 https://www.researchgate.net/publication/337528430_Non-Intrusive_POLQA_Estimation_of_Speech_Quality_using_Recurrent_Neural_Networks
+
+2 https://www.researchgate.net/publication/318852827_Predicting_Automatic_Speech_Recognition_Performance_Over_Communication_Channels_from_Instrumental_Speech_Quality_and_Intelligibility_Scores
+2  papers fr realted work, no need fr comparison
+
+3: https://www.mitre.org/sites/default/files/pdf/06_1154.pdf
+this paper uis a poblem though they estimate WER
+
+4.  French paper 1 https://hal.archives-ouvertes.fr/hal-01709779/document
+French 1st paper raw sig cnn:https://arxiv.org/abs/1610.00087
+https://github.com/philipperemy/very-deep-convnets-raw-waveforms/blob/master/models.py
+
+https://github.com/qcri/e-wer/blob/master/train-swap-dnn.ipynb
