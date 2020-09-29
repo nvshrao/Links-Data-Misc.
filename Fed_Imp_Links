@@ -10,16 +10,19 @@ https://arxiv.org/abs/1712.07473
 
 2019
 
-IJCNN Learning Private Neural Language Modeling with Attentive Aggregation
+IJCNN 2019 (keyboard)
+Learning Private Neural Language Modeling with Attentive Aggregation
 https://ieeexplore.ieee.org/abstract/document/8852464?casa_token=H1gAXCDjZzsAAAAA:gWAmqDaWzD1PSKqFMnGSydO6ogmZx1NWw9RSB5g2DnuVrI8lUQzVFaXyNQGu3xoMH7x2gquyZ1Y
 
-ConLL Federated Learning of N-gram Language Models
+ConLL 2019, Google (keyboard)
+Federated Learning of N-gram Language Models
 https://www.aclweb.org/anthology/K19-1012.pdf
 
 2020
 Federated pretraining and fine tuning of BERT using clinical notes from multiple silos 
 https://arxiv.org/abs/2002.08562
 
+Not exactly relevant:
 (Obscure)
 FedMed: A Federated Learning Framework for Language Modeling
 file:///C:/Users/Admin/Downloads/sensors-20-04048%20(1).pdf
@@ -28,4 +31,5 @@ https://www.mdpi.com/1424-8220/20/14/4048/pdf
 ??
 Distantly Supervised Relation Extraction in Federated Settings
 
-ACL 2020 https://www.aclweb.org/anthology/2020.acl-main.700.pdf (survey of personalizing language models)
+ACL 2020 
+https://www.aclweb.org/anthology/2020.acl-main.700.pdf (survey of personalizing language models)
