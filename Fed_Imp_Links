@@ -1,0 +1,31 @@
+
+Federated + NLP
+
+2018
+
+SR Russia
+ICLR Distributed Fine-tuning of Language Models on Private Data 
+https://openreview.net/forum?id=HkgNdt26Z&noteId=HkgNdt26Z
+https://arxiv.org/abs/1712.07473
+
+2019
+
+IJCNN Learning Private Neural Language Modeling with Attentive Aggregation
+https://ieeexplore.ieee.org/abstract/document/8852464?casa_token=H1gAXCDjZzsAAAAA:gWAmqDaWzD1PSKqFMnGSydO6ogmZx1NWw9RSB5g2DnuVrI8lUQzVFaXyNQGu3xoMH7x2gquyZ1Y
+
+ConLL Federated Learning of N-gram Language Models
+https://www.aclweb.org/anthology/K19-1012.pdf
+
+2020
+Federated pretraining and fine tuning of BERT using clinical notes from multiple silos 
+https://arxiv.org/abs/2002.08562
+
+(Obscure)
+FedMed: A Federated Learning Framework for Language Modeling
+file:///C:/Users/Admin/Downloads/sensors-20-04048%20(1).pdf
+https://www.mdpi.com/1424-8220/20/14/4048/pdf
+
+??
+Distantly Supervised Relation Extraction in Federated Settings
+
+ACL 2020 https://www.aclweb.org/anthology/2020.acl-main.700.pdf (survey of personalizing language models)
