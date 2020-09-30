@@ -1,4 +1,3 @@
-
 Federated + NLP
 
 2018
@@ -7,36 +6,62 @@ SR Russia
 ICLR Distributed Fine-tuning of Language Models on Private Data 
 https://openreview.net/forum?id=HkgNdt26Z&noteId=HkgNdt26Z
 https://arxiv.org/abs/1712.07473
--- Centers around how to fine tune language models on a general data such as wikipedia and at the same time on personalized user data such as Twitter (Distributed Fine-Tuning).
+-- Centers around how to fine-tune language models on general data such as Wikipedia and at the same time on personalized user data such as Twitter (Distributed Fine-Tuning).
 -- They only hint that their work could be referred to as federated. 
 -- Evaluating with perplexity for the LM task and some more privacy and communication efficiency metrics.
 -- Training is On-Device and Server Averaging
 -- Extends to Image classification but not any NLP task
--- Noted that general LM catastrophic forgetting can happen while user data fine tuning
--- LM is 2 layerd LSTM with 650 units
+-- Noted that general LM catastrophic forgetting can happen while user data fine-tuning
+-- LM is a 2 layered LSTM with 650 units
 
 2019
 
-IJCNN 2019 (keyboard)
+IJCNN 2019 
 Learning Private Neural Language Modeling with Attentive Aggregation
 https://ieeexplore.ieee.org/abstract/document/8852464?casa_token=H1gAXCDjZzsAAAAA:gWAmqDaWzD1PSKqFMnGSydO6ogmZx1NWw9RSB5g2DnuVrI8lUQzVFaXyNQGu3xoMH7x2gquyZ1Y
+-- Task of keyboard suggestion, but measured in terms of the perplexity of LM.
+-- Suggest that averaging client models is a bad idea
+-- afai understood, simulated user data is just randomly sampled from the general data (includes Penn Treebank, wiki, Reddit (only Reddit is user generated))
+-- Hence, they propose an attention aggregation, where some clients are focused more than others while aggregation.
+-- Some additional optimizations mentioned (communication cost server-client uploading and downloading, time)
+-- Language model itself is GRU
+-- Show that Fed Attention has lower perplexity than Fed Average
 
-ConLL 2019, Google (keyboard)
+ConLL 2019, Google
 Federated Learning of N-gram Language Models
 https://www.aclweb.org/anthology/K19-1012.pdf
+-- Similar setting as previous works, but more keyboard centered
+-- Major difference from earlier works: They declare that earlier works were NN Language models, whereas actual production level keyboards are powered by n-gram LMs for latency issues.
+-- Actual A/B Testing results by Google unlike previous works which were a simulation of clients and server
+-- They compared Fed Average LSTM LM with their proposed Federated n-gram LM 
+-- privacy is maintained, no data leaves mobile etc (though, I think this is not novel and previous works also maintain this)
+-- Interesting Keyboard example: Same finger movement should lead to different words based on user and context.
+-- Morphologically rich non-English languages also handled (Portuguese)
 
 2020
-Federated pretraining and fine tuning of BERT using clinical notes from multiple silos 
-https://arxiv.org/abs/2002.08562
 
-Not exactly relevant:
-(Obscure)
+Federated pretraining and fine-tuning of BERT using clinical notes from multiple silos 
+https://arxiv.org/abs/2002.08562
+-- LM model is BERT
+-- Data is primarily medical related
+-- Task is Medical NER, they aim to study performance of medical NER with and without Federated LM Fine-tuning
+-- Aim is not User data or User personalization, rather federated is tried because whole medical training data can't be in one place due to  privacy and regulatory reasons
+-- Efficiency and Optimization are also not the aim
+-- Negative/On-going Study: Federated fine-tuning is worse than centralized fine tuning (Federated vs Centralized is compared unlike other works which compare among Federated techniques)
+
 FedMed: A Federated Learning Framework for Language Modeling
 file:///C:/Users/Admin/Downloads/sensors-20-04048%20(1).pdf
 https://www.mdpi.com/1424-8220/20/14/4048/pdf
+-- similar to Attentive Aggregation IJCNN 2019 (datasets (PTB, Wiki, but yelp instead of Reddit), experiments(2 layered LSTM) etc) and evaluation (Perplexity)
+-- show that their aggregation method FedMed better than earlier Fed Averaging, Fed Attentive and FedSGD(even older, I think)
+-- FedMed introduces another Mediator concept which mediates between Average Aggregation and Adaptive Aggregation (also proposed)
+-- Some communication cost and optimization schemes
 
-??
+Some other related works....
+
 Distantly Supervised Relation Extraction in Federated Settings
+-- Relation Extraction task
 
 ACL 2020 
-https://www.aclweb.org/anthology/2020.acl-main.700.pdf (survey of personalizing language models)
+https://www.aclweb.org/anthology/2020.acl-main.700.pdf 
+-- a survey of personalizing language models, not federated specifically
