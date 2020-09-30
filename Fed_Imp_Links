@@ -7,6 +7,13 @@ SR Russia
 ICLR Distributed Fine-tuning of Language Models on Private Data 
 https://openreview.net/forum?id=HkgNdt26Z&noteId=HkgNdt26Z
 https://arxiv.org/abs/1712.07473
+-- Centers around how to fine tune language models on a general data such as wikipedia and at the same time on personalized user data such as Twitter (Distributed Fine-Tuning).
+-- They only hint that their work could be referred to as federated. 
+-- Evaluating with perplexity for the LM task and some more privacy and communication efficiency metrics.
+-- Training is On-Device and Server Averaging
+-- Extends to Image classification but not any NLP task
+-- Noted that general LM catastrophic forgetting can happen while user data fine tuning
+-- LM is 2 layerd LSTM with 650 units
 
 2019
 
